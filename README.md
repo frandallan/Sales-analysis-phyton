@@ -21,7 +21,6 @@ Python, SQLite3, Pandas, NumPy, Matplotlib
 ![Revenue by category](facturacion_por_categoria.png)
 
 
-
 ## Context
 University project (CAECE) built to practice data persistence,
 data cleaning and visualization in Python.
